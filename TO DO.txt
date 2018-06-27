@@ -1,0 +1,11 @@
+Components Users:
+User.ts
+User Component 
+User Detail
+
+eunm UserType
+
+Comoponent Bicycle:
+Bicycle.ts
+
+enum BicycleType
